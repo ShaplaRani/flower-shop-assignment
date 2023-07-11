@@ -1,3 +1,8 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
 /* common shared styles */
 .button-primary{
    border:none;  
@@ -25,7 +30,7 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    padding:0px 500px 0px 500px;
+    padding:0px 480px 0px 480px;
     margin-top: 10px;
     margin-bottom: 15px;
    
@@ -42,6 +47,7 @@ nav{
     font-family: 'Open Sans', sans-serif;
     font-size:45px;
     font-weight:800px;
+    padding:20px;
 }
 nav >ul{
     display: flex;
